@@ -7,4 +7,6 @@
 (2) https://github.com/2018WinterInternshipGatoLab/Server
 
 - Please check files named 'YYMMDDdate.md'
-- Images named image*.png are for upper files (don't have to check)
+- An Image folder contains images uploaded in upper files (don't have to check)
+
+- Please contact 'adgjm258015@gmail.com' to ask questions, references or anything related to this project.
